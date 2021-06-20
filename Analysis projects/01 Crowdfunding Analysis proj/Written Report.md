@@ -9,7 +9,7 @@ To explore the dataset of KickStarter projects to discover factors that affect t
 
 ### Analysis of Outcomes Based on Launch Date
 
-![Outcomes Based on Launch Date](Resources/02 Outcomes Based on Launch Date.png)
+![Outcomes Based on Launch Date](/Resources/02 Outcomes Based on Launch Date.png)
 
 ### Analysis of Outcomes Based on Goals
 
