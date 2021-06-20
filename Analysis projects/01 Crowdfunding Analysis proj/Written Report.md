@@ -1,4 +1,4 @@
-# Kickstarting with Excel
+# FACTORS OF A SUCCESSFUL KICKSTARTER PROJECT
 
 ## Overview of Project
 
@@ -8,7 +8,8 @@ To explore the dataset of KickStarter projects to discover factors that affect t
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![Outcomes Based on Launch Date](https://github.com/dennisphan/DU-Boot-Camp---Data-Analytics/blob/c01cc5700b923886f8a791cca94dc3a93fcdf933/Analysis%20projects/01%20Crowdfunding%20Analysis%20proj/Resources/02%20Outcomes%20Based%20on%20Launch%20Date.png)
+
+![Outcomes Based on Launch Date](Resources/02 Outcomes Based on Launch Date.png)
 
 ### Analysis of Outcomes Based on Goals
 
