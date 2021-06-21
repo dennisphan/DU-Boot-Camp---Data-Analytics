@@ -1,4 +1,4 @@
-# FACTORS OF A SUCCESSFUL KICKSTARTER PROJECT
+# FACTORS OF SUCCESSFUL KICKSTARTER PROJECTS
 
 ## Overview of Project
 
@@ -26,14 +26,14 @@ Based on the quartile calculations, we can also see that most values of this dat
 ![Central Tendency of Goal and Pledged](https://github.com/dennisphan/DU-Boot-Camp---Data-Analytics/blob/154e429d09fdae60969aeaa7dbe2f393445e9204/Analysis%20projects/01%20Crowdfunding%20Analysis%20proj/Resources/05_Central_Tendency_of_Goal_and_Pledged.png)
 
 ### Challenges and Difficulties Encountered
-
+For some categories, there were not enough projects
 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-
+Two conclusions: (1) the best time to launch a KickStarter campaign is May, June, and July to maximize the probability of success. (2) 
 - What can you conclude about the Outcomes based on Goals?
-
+Two conclusions: (1) the lower the goal, the higher the chance a KickStarter campaign would succeed, and (2) to have a high goal, the range from $35,000 to $45,000 should be considered. However, this situation might not be reliable since the analyzed data was not large enough. 
 - What are some limitations of this dataset?
-
+This dataset has some limitations. Firstly, it includes mostly projects in the U.S (3038 projects out of 4015 in total) and in the UK (604 projects out of 4015 in total). The results could reflect only situations in the U.S and the UK. Secondly, there are a lot of outliers with values that are far outside of the IQR. This indicates that the result is heavily influenced by those outliers to be less reliable. Thirdly, in the analysis of Outcomes Based on Goal, the number of projects with goal ranging $15,000 and higher are not large enough. This could make the trend discovered from the analysis less valuable. 
 - What are some other possible tables and/or graphs that we could create?
