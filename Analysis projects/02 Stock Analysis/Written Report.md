@@ -18,9 +18,11 @@ In 2018, the result was very different with only two companies that had outperfo
 Before factoring, the code took more than 0.50 seconds in execution. However, with proper refactoring, the execution times have decreased siginificantly to approximately 0.11 seconds for stocks in 2017 and 0.27 seconds for stocks in 2018. 
 
 Execution time for stocks in 2017
+
 ![Execution time 2017](Resources/VBA_Challenge_2017.png)
 
 Execution time for stocks in 2018
+
 ![Execution time 2017](Resources/VBA_Challenge_2018.png)
 
 
